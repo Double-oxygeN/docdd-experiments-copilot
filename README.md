@@ -1,5 +1,7 @@
 # DocDD Experiments: GitHub Copilot
 
+記事：[ドキュメント駆動開発に備える](https://zenn.dev/double_oxygen/articles/c616835f11aca6)
+
 ## Ex1: 日本語の文書を生成
 
 初期状態：[ex1](https://github.com/Double-oxygeN/docdd-experiments-copilot/tree/ex1)
